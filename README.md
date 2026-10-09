@@ -7,6 +7,17 @@ This project analyzes Superstore sales data using Excel to identify sales trends
 - Microsoft Excel
 - PivotTables
 - Charts and data analysis
+  
+## Data Quality and Cleaning
+
+- Reviewed the dataset for missing values, invalid values, and inconsistent data.
+- Checked for duplicate records and confirmed that repeated Order IDs can represent multiple products within the same order.
+- Preserved all 9,994 original rows to avoid removing valid sales records.
+- Identified negative profit values, which represent potential losses rather than invalid data.
+
+## Data Quality Recommendation
+
+Perform systematic checks for missing values, inconsistent formats, and genuine duplicate rows before conducting further analysis.
 
 ## Key Performance Indicators (KPIs)
 - **Total Sales:** $2,297,200.86
