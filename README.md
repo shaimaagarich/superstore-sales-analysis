@@ -40,7 +40,7 @@ The project uses a step-by-step data analysis workflow, starting with Microsoft 
 
 - Technology generated the highest sales among the three product categories.
 - The West region had the highest sales and profit.
-- Annual sales increased from approximately $484,247 in 2018 to $733,215 in 2021.
+- Annual sales increased from approximately $484,247 in 2014 to $733,215 in 2017, an increase of approximately 51.4%..
 
 ### Product Performance
 
