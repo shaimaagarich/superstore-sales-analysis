@@ -109,3 +109,18 @@ Discount levels are associated with substantial differences in profitability. Fu
 **Business recommendation:** Prioritize an investigation of Tables products by reviewing discount levels, product costs, and pricing strategies. Investigate Bookcases and Supplies as well to identify opportunities to improve profitability.
 
 **Conclusion:** High sales do not necessarily guarantee profitability. Businesses should evaluate both sales revenue and profit when making product and pricing decisions.
+
+
+### Product-Level Profitability Analysis
+
+**Objective:** Identify products with more than $1,000 in total sales that generate the largest financial losses.
+
+**Key findings:**
+- The Cubify CubeX 3D Printer Double Head Print recorded $11,099.96 in sales and a loss of $8,879.97, with a profit margin of -80%.
+- The Lexmark MX611dhe Monochrome Laser Printer generated $16,829.90 in sales but recorded a loss of $4,589.97.
+- The Cubify CubeX 3D Printer Triple Head Print recorded $7,999.98 in sales and a loss of $3,839.99.
+- Several products in the Machines and Tables sub-categories appear among the 10 least profitable products meeting the sales threshold.
+
+**Business recommendation:** Investigate the discount levels, costs, and order-level profitability of these products. Consider reviewing pricing and discount policies before making decisions about product availability.
+
+**Conclusion:** Revenue alone is not a sufficient measure of product performance. Product-level profitability analysis helps businesses identify products that may require pricing or cost-management changes.
