@@ -124,3 +124,18 @@ Discount levels are associated with substantial differences in profitability. Fu
 **Business recommendation:** Investigate the discount levels, costs, and order-level profitability of these products. Consider reviewing pricing and discount policies before making decisions about product availability.
 
 **Conclusion:** Revenue alone is not a sufficient measure of product performance. Product-level profitability analysis helps businesses identify products that may require pricing or cost-management changes.
+
+
+### Sales and Profit Trends Analysis (2014–2017)
+
+**Objective:** Analyze annual sales, profit, and profit margins to evaluate business performance over time.
+
+**Key findings:**
+- Sales increased from $484,247.56 in 2014 to $733,215.19 in 2017.
+- Annual profit increased from $49,543.97 to $93,439.27 over the same period.
+- The highest profit margin was 13.43% in 2016.
+- In 2017, the business achieved its highest annual sales and profit, although its profit margin decreased to 12.74%.
+
+**Business recommendation:** Continue monitoring sales growth alongside profit margins to ensure that increasing revenue translates into sustainable profitability.
+
+**Conclusion:** The business experienced overall growth between 2014 and 2017, with rising annual profit and a strong increase in sales.
