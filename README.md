@@ -79,3 +79,19 @@ The project uses a step-by-step data analysis workflow, starting with Microsoft 
 - [ ] Complete SQL analysis and document findings
 - [ ] Build an interactive Power BI dashboard
 - [ ] Finalize project documentation and portfolio presentation
+
+## SQL Analysis: Impact of Discounts on Profitability
+
+### Objective
+Analyze the relationship between discount levels and profit margins across Furniture, Office Supplies, and Technology.
+
+### Key Findings
+- Furniture: Profit margin decreases from 22.71% with no discount to -10.75% at a 30% discount.
+- Office Supplies: Profit margin remains positive at 16.32% with a 20% discount, but becomes negative at discounts of 70% and 80%.
+- Technology: Profit margin is 14.62% at a 20% discount and -9.70% at a 40% discount.
+
+### Business Recommendation
+Review discount policies by product category and investigate high-discount transactions that generate losses. Consider product costs, sales volume, and other factors before adjusting pricing policies.
+
+### Conclusion
+Discount levels are associated with substantial differences in profitability. Further analysis is needed to identify loss-making products and develop appropriate pricing strategies.
