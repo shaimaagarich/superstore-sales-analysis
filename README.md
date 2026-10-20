@@ -95,3 +95,17 @@ Review discount policies by product category and investigate high-discount trans
 
 ### Conclusion
 Discount levels are associated with substantial differences in profitability. Further analysis is needed to identify loss-making products and develop appropriate pricing strategies.
+
+
+### Sub-Category Profitability Analysis
+
+**Objective:** Identify the product sub-categories generating the largest financial losses.
+
+**Key findings:**
+- Tables generated $206,965.68 in sales but recorded a loss of $17,725.48, resulting in a profit margin of -8.56%.
+- Bookcases generated $114,880.05 in sales and a loss of $3,472.56.
+- Supplies generated $46,673.52 in sales and a loss of $1,189.10.
+
+**Business recommendation:** Prioritize an investigation of Tables products by reviewing discount levels, product costs, and pricing strategies. Investigate Bookcases and Supplies as well to identify opportunities to improve profitability.
+
+**Conclusion:** High sales do not necessarily guarantee profitability. Businesses should evaluate both sales revenue and profit when making product and pricing decisions.
