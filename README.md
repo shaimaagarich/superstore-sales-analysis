@@ -189,6 +189,8 @@ The repository is organized into folders for the analysis files and project docu
 superstore-sales-analysis/
 ├── Excel/
 ├── SQL/
+├── Data/
+├── PowerBi/
 └── README.md
 ```
 
